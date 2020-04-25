@@ -1,0 +1,2 @@
+rootProject.name='FirestoreRecyclerAdpter'
+include ':app'
